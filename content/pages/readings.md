@@ -8,29 +8,318 @@ The readings are assigned in the textbook for this course:
 
 Rudin, Walter. _Principles of Mathematical Analysis (International Series in Pure and Applied Mathematics)_. 3rd ed. McGraw-Hill, 1976. ISBN: 9780070542358.
 
-| LEC # | TOPICS | READINGS |
-| --- | --- | --- |
-| 1 | Sets, ordered sets, countable sets | pp. 3–6, and 24–30;  {{< br >}}Theorem 2.14 makes good reading even though it wasn't covered in class. |
-| 2 | Fields, ordered fields, least upper bounds, the real numbers | pp. 5–11 |
-| 3 | The Archimedean principle; decimal expansion; intersections of closed intervals; complex numbers, Cauchy-Schwarz |  {{< br >}}{{< br >}} pp. 38–9 (Theorem 2.38 only), 41 (Corollary to Theorem 2.43 only), and 12–6 {{< br >}}{{< br >}} {{< h 3 >}}Independent Reading:{{< /h >}} {{< br >}}{{< br >}} pp. 16–7 (Euclidean spaces) {{< br >}}{{< br >}}  |
-| 4 | Metric spaces, ball neighborhoods, open subsets | pp. 30–4 |
-| 5 | Open subsets, limit points, closed subsets, dense subsets | pp. 34–46 |
-| 6 | Compact subsets of metric spaces | pp. 36–8, and Problem 26 from p. 45 |
-| 7 | Limit points and compactness; compactness of closed bounded subsets in Euclidean space | pp. 38–40 |
-| 8 | Convergent sequences in metric spaces; Cauchy sequences, completeness; Cauchy's theorem | pp. 47–9, and 51 (bottom of the page) –55 |
-| 9 | Subsequential limits, lim sup and lim inf, series | pp. 55–7, and 61–3 |
-| 10 | Absolute convergence, product of series | pp. 71–4, and 78 |
-| 11 | Power series, convergence radius; the exponential function, sine and cosine | pp. 69–70 plus some additional material from Chapter 8 (notably pages 178–80 on the exponential series, but covered only partially). |
-| 12 | Continuous maps between metric spaces; images of compact subsets; continuity of inverse maps | pp. 83–9 |
-| 13 | Continuity of the exponential; the logarithm; Intermediate Value Theorem; uniform continuity | pp. 90–6 |
-| 14 | Derivatives, the chain rule; Rolle's theorem, Mean Value Theorem | pp. 103–8 |
-| 15 | Derivative of inverse functions; higher derivatives, Taylor's theorem | pp. 109–11 |
-| 16 | Pointwise convergence, uniform convergence; Weierstrass criterion; continuity of uniform limits; application to power series | pp. 143–51, and also part of Theorem 8.1 (p. 173) |
-| 17 | Uniform convergence of derivatives | pp. 152–4; we also proved a weaker version of Theorem 7.25, just for functions of real numbers. |
-| 18 | Spaces of functions as metric spaces; beginning of the proof of the Stone-Weierstrass Theorem | Definition 7.14 (the class has a bit more than that), Theorems 7.31 and 7.32 |
-| 19 | End of Stone-Weierstrass; beginning of the theory of integration (continuous functions as uniform limits of piecewise linear functions) | Problem 23 on p. 169; the rest of Theorem 7.32 |
-| 20 | Riemann-Stjeltjes integral: definition, basic properties | pp. 120–30 (ending with a version of Theorem 6.15) |
-| 21 | Riemann integrability of products; change of variables | Theorems 6.13, 6.17, 6.19 |
-| 22 | Fundamental theorem of calculus; back to power series: continuity, differentiability | pp. 133–4, and the parts of Theorem 8.1 which we didn't do before. |
-| 23 | Review of exponential, log, sine, cosine; _eit\= cos(t)_ + _isin(t)_ | pp. 178–84 |
-| 24 | Review of series, Fourier series |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Sets, ordered sets, countable sets
+{{< tdclose >}}
+{{< tdopen >}}
+pp. 3–6, and 24–30;  
+Theorem 2.14 makes good reading even though it wasn't covered in class.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Fields, ordered fields, least upper bounds, the real numbers
+{{< tdclose >}}
+{{< tdopen >}}
+pp. 5–11
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+The Archimedean principle; decimal expansion; intersections of closed intervals; complex numbers, Cauchy-Schwarz
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+pp. 38–9 (Theorem 2.38 only), 41 (Corollary to Theorem 2.43 only), and 12–6
+
+### Independent Reading:
+
+pp. 16–7 (Euclidean spaces)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Metric spaces, ball neighborhoods, open subsets
+{{< tdclose >}}
+{{< tdopen >}}
+pp. 30–4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Open subsets, limit points, closed subsets, dense subsets
+{{< tdclose >}}
+{{< tdopen >}}
+pp. 34–46
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Compact subsets of metric spaces
+{{< tdclose >}}
+{{< tdopen >}}
+pp. 36–8, and Problem 26 from p. 45
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Limit points and compactness; compactness of closed bounded subsets in Euclidean space
+{{< tdclose >}}
+{{< tdopen >}}
+pp. 38–40
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Convergent sequences in metric spaces; Cauchy sequences, completeness; Cauchy's theorem
+{{< tdclose >}}
+{{< tdopen >}}
+pp. 47–9, and 51 (bottom of the page) –55
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Subsequential limits, lim sup and lim inf, series
+{{< tdclose >}}
+{{< tdopen >}}
+pp. 55–7, and 61–3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Absolute convergence, product of series
+{{< tdclose >}}
+{{< tdopen >}}
+pp. 71–4, and 78
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Power series, convergence radius; the exponential function, sine and cosine
+{{< tdclose >}}
+{{< tdopen >}}
+pp. 69–70 plus some additional material from Chapter 8 (notably pages 178–80 on the exponential series, but covered only partially).
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Continuous maps between metric spaces; images of compact subsets; continuity of inverse maps
+{{< tdclose >}}
+{{< tdopen >}}
+pp. 83–9
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Continuity of the exponential; the logarithm; Intermediate Value Theorem; uniform continuity
+{{< tdclose >}}
+{{< tdopen >}}
+pp. 90–6
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Derivatives, the chain rule; Rolle's theorem, Mean Value Theorem
+{{< tdclose >}}
+{{< tdopen >}}
+pp. 103–8
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Derivative of inverse functions; higher derivatives, Taylor's theorem
+{{< tdclose >}}
+{{< tdopen >}}
+pp. 109–11
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Pointwise convergence, uniform convergence; Weierstrass criterion; continuity of uniform limits; application to power series
+{{< tdclose >}}
+{{< tdopen >}}
+pp. 143–51, and also part of Theorem 8.1 (p. 173)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Uniform convergence of derivatives
+{{< tdclose >}}
+{{< tdopen >}}
+pp. 152–4; we also proved a weaker version of Theorem 7.25, just for functions of real numbers.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Spaces of functions as metric spaces; beginning of the proof of the Stone-Weierstrass Theorem
+{{< tdclose >}}
+{{< tdopen >}}
+Definition 7.14 (the class has a bit more than that), Theorems 7.31 and 7.32
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+End of Stone-Weierstrass; beginning of the theory of integration (continuous functions as uniform limits of piecewise linear functions)
+{{< tdclose >}}
+{{< tdopen >}}
+Problem 23 on p. 169; the rest of Theorem 7.32
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Riemann-Stjeltjes integral: definition, basic properties
+{{< tdclose >}}
+{{< tdopen >}}
+pp. 120–30 (ending with a version of Theorem 6.15)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Riemann integrability of products; change of variables
+{{< tdclose >}}
+{{< tdopen >}}
+Theorems 6.13, 6.17, 6.19
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Fundamental theorem of calculus; back to power series: continuity, differentiability
+{{< tdclose >}}
+{{< tdopen >}}
+pp. 133–4, and the parts of Theorem 8.1 which we didn't do before.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Review of exponential, log, sine, cosine; _eit\= cos(t)_ + _isin(t)_
+{{< tdclose >}}
+{{< tdopen >}}
+pp. 178–84
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Review of series, Fourier series
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
